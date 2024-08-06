@@ -3,7 +3,7 @@
 !pip install opencv-python
 !pip install matplotlib
 
-import Modules
+#import Modules
 import easyocr
 import cv2
 import matplotlib.pyplot as plt
@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 reader = easyocr.Reader(['en'])
  
 # Load image
-image_path = "p5 (2).jpeg"
+image_path = "p5.jpeg" #give path to image 
 image = cv2.imread(image_path)
  
 # Perform OCR on the image
