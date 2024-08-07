@@ -3,7 +3,7 @@
 !pip install opencv-python
 !pip install matplotlib
 
-#import Modules
+#import  the Modules
 import easyocr
 import cv2
 import matplotlib.pyplot as plt
