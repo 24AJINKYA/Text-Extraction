@@ -42,5 +42,5 @@ plt.figure(figsize=(10, 10))
 plt.imshow(cv2.cvtColor(image, cv2.COLOR_BGR2RGB))
 plt.axis('off')
 plt.show()
- 
+
 print(f"Extracted text has been saved to {output_file}")
