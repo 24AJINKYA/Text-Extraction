@@ -3,9 +3,12 @@
 This project demonstrates how to use EasyOCR, OpenCV, and Matplotlib to perform Optical Character Recognition (OCR) on images and extract text. The extracted text is saved to a file, and bounding boxes are drawn around the detected text in the image for visualization.
 
 ## Requirements
-Python 3.x
+Python 3
+
 EasyOCR
+
 OpenCV
+
 Matplotlib
 ## Installation
 To install the necessary libraries, run the following commands:
